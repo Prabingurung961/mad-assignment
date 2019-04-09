@@ -1,0 +1,4 @@
+#Wed Apr 10 02:10:41 NPT 2019
+base.0=I\:\\GitHub\\android_class\\Week 3 & 4\\TabExperiment\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

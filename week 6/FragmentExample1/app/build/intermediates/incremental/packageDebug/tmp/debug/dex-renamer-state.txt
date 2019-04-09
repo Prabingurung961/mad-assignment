@@ -1,0 +1,4 @@
+#Tue Apr 09 14:58:47 NPT 2019
+base.0=E\:\\British college\\2nd sem\\Mobile app development\\week 6\\FragmentExample_start\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
